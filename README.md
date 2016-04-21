@@ -89,8 +89,5 @@ Content-type: text/html
 
 注意，第二行为一个空行，这是必须的，使用这个空行的目的是将MIME信息与真正的数据内容分隔开。
 
-##Activity方向
-behind 理解
-[http://www.makaidong.com/博客园推荐/44885.shtml](http://www.makaidong.com/博客园推荐/44885.shtml)
 ## Android之SplashActivity的巧妙之处
 [http://blog.csdn.net/way_ping_li/article/details/9863033](http://blog.csdn.net/way_ping_li/article/details/9863033)
