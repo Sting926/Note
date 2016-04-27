@@ -91,3 +91,6 @@ Content-type: text/html
 
 ## Android之SplashActivity的巧妙之处
 [http://blog.csdn.net/way_ping_li/article/details/9863033](http://blog.csdn.net/way_ping_li/article/details/9863033)
+
+##manifest元素详解
+[http://developer.android.com/intl/zh-cn/guide/topics/manifest/activity-element.html#screen](http://developer.android.com/intl/zh-cn/guide/topics/manifest/activity-element.html#screen)
