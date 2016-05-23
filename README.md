@@ -94,3 +94,11 @@ Content-type: text/html
 
 ##manifest元素详解
 [http://developer.android.com/intl/zh-cn/guide/topics/manifest/activity-element.html#screen](http://developer.android.com/intl/zh-cn/guide/topics/manifest/activity-element.html#screen)
+
+##通过adb shell删除系统预装软件
+1.进入adb shell，输入su获得ROOT权限
+
+2.接着输入mount，查看哪个分区挂载了/system,例如我的是：
+mount -o remount -r -w /system
+3.在shell中cd到/system/app文件夹，使用ls命令，查看里面的文件：
+4.从名字中，能大体分辨出是什么应用。使用rm YOUR_APK_NAME.apk删除你想删掉的apk，对应的应用也就自动消失了。
