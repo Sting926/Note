@@ -102,3 +102,5 @@ Content-type: text/html
 mount -o remount -r -w /system
 3.在shell中cd到/system/app文件夹，使用ls命令，查看里面的文件：
 4.从名字中，能大体分辨出是什么应用。使用rm YOUR_APK_NAME.apk删除你想删掉的apk，对应的应用也就自动消失了。
+##深入浅出RenderThread
+[http://blog.chengdazhi.com/index.php/190](http://blog.chengdazhi.com/index.php/190)
