@@ -104,3 +104,5 @@ mount -o remount -r -w /system
 4.从名字中，能大体分辨出是什么应用。使用rm YOUR_APK_NAME.apk删除你想删掉的apk，对应的应用也就自动消失了。
 ##深入浅出RenderThread
 [http://blog.chengdazhi.com/index.php/190](http://blog.chengdazhi.com/index.php/190)
+##详解Android 6.0运行时权限
+[http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650235978&idx=1&sn=74a2e772890050e9a49bd095c981d24e&scene=0#wechat_redirect](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650235978&idx=1&sn=74a2e772890050e9a49bd095c981d24e&scene=0#wechat_redirect)
