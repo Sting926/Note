@@ -106,3 +106,9 @@ mount -o remount -r -w /system
 [http://blog.chengdazhi.com/index.php/190](http://blog.chengdazhi.com/index.php/190)
 ##详解Android 6.0运行时权限
 [http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650235978&idx=1&sn=74a2e772890050e9a49bd095c981d24e&scene=0#wechat_redirect](http://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650235978&idx=1&sn=74a2e772890050e9a49bd095c981d24e&scene=0#wechat_redirect)
+
+##深入浅出 Retrofit
+[http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1117](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1117)
+
+##开发第三方库最佳实践
+[http://www.jianshu.com/p/0aacd419cb7e#](http://www.jianshu.com/p/0aacd419cb7e#)
