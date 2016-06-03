@@ -112,3 +112,6 @@ mount -o remount -r -w /system
 
 ##开发第三方库最佳实践
 [http://www.jianshu.com/p/0aacd419cb7e#](http://www.jianshu.com/p/0aacd419cb7e#)
+
+##Android 消息机制学习
+[http://www.jianshu.com/p/1e5640e6bef9](http://www.jianshu.com/p/1e5640e6bef9)
